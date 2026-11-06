@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/camerafeed.tsx","./src/components/parasympatheticgauge.tsx","./src/components/poincareplot.tsx","./src/components/prepostmodal.tsx","./src/components/tachogramchart.tsx","./src/lib/dsp.ts","./src/lib/metrics.ts"],"version":"5.7.3"}
